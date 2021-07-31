@@ -1,0 +1,6 @@
+[submodule "SimpleSimulator"]
+	path = SimpleSimulator
+	url = https://github.com/Setu-Gupta/SimpleSimulator.git
+[submodule "Simple-Assembler"]
+	path = Simple-Assembler
+	url = https://github.com/mayank18049/Simple-Assembler.git
