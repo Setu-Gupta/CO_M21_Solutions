@@ -17,7 +17,7 @@ mov R2 $8
 st R2 eight
 mov R2 $10
 st R2 ten
-mov R2 $221
+mov R2 $0
 st R2 input
 mov R2 $0
 st R2 output
