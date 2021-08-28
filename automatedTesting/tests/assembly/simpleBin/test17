@@ -1,3 +1,2 @@
-label:
-jgt label
+label: jgt label
 hlt

@@ -9,7 +9,7 @@ st R1 a
 st R2 b
 st R3 c
 cmp R1 R2
-jlt lab
-lab: hlt
+
+
 mv R5 $4
 hlt

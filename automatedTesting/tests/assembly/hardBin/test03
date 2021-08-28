@@ -3,8 +3,7 @@ var abc
 l1: mov R0 $100
 mov R1 $50
 mov R5 FLAGS
-l_2:
-	st R0 xyz
+l_2:	st R0 xyz
 	add R0 R0 R1
 	ld R2 abc
 	je l1
