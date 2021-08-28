@@ -1,6 +1,6 @@
 hlt
 var abc
-var xyzvar
+var xyzvar a
 var b
 add R0 $100
 st R0 a

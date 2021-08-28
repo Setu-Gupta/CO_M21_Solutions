@@ -1,0 +1,3 @@
+Var x
+ld R1 x
+hlt
