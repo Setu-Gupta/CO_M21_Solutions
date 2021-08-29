@@ -7,17 +7,20 @@ var three
 var case
 var output1
 var output2
+mov R1 $0
 st R1 zero
-mov R1 $4
-st R1 case
+mov R1 $1
+st R1 one
 mov R1 $215
 st R1 input1
-st R1 one
 mov R1 $145
-st R1 input1
+st R1 input2
+mov R2 $2
 st R1 two
 mov R1 $3
 st R1 three
+mov R1 $4
+st R1 case
 ld R0 case
 ld R1 zero
 cmp R0 R1
